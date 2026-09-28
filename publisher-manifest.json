@@ -1,0 +1,86 @@
+{
+  "version": 2,
+  "template_version": "7ffa5ebee0a6d05c86c7",
+  "page_size": 20,
+  "site_id": "eb6f96a484ed5a3a335296a3",
+  "owner": "dhhhtpkfd",
+  "repo": "page-97f94ff00b1db8ec21a2c071",
+  "title": "青云梯",
+  "mode": "repo",
+  "articles": [
+    {
+      "id": "97f94ff00b1db8ec21a2c071",
+      "a": "青云梯",
+      "b": "",
+      "entity": "青云梯",
+      "brand": "青云梯",
+      "separator": "",
+      "path": "index.html",
+      "hash": "3aa3ec2ca6463880fcbababf75e12c8c275b42d62d7e6580a8c4cd32ad1f10c2",
+      "content": {
+        "keyword1": "青云梯",
+        "keyword2": "",
+        "primary_entity": "青云梯",
+        "plans": [],
+        "clients": [],
+        "_offline": false,
+        "content": {
+          "AI_HERO_INTRO": "青云梯提供稳定VPN梯子服务，助力用户实现网络加速与高效访问。下载客户端，享受畅快上网体验。",
+          "AI_DESCRIPTION": "青云梯提供稳定VPN梯子服务，助力用户实现网络加速与高效访问。下载客户端，享受畅快上网体验。"
+        },
+        "_brand_page": {
+          "version": 1,
+          "body": "\n\n\n\n\n<style>\n  * { box-sizing: border-box; }\n  body {\n    margin: 0;\n    padding: 0;\n    background-color: #f8f5f0;\n    color: #333;\n    line-height: 1.7;\n    font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif;\n  }\n  main {\n    max-width: 1100px;\n    margin: 0 auto;\n    padding: 20px;\n  }\n  .hero {\n    background: linear-gradient(135deg, #e07a5f, #f8c4b0);\n    color: white;\n    padding: 80px 20px;\n    text-align: center;\n    border-radius: 12px;\n    margin-bottom: 40px;\n    box-shadow: 0 5px 20px rgba(224, 122, 95, 0.3);\n  }\n  .hero h1 {\n    font-size: 2.8em;\n    margin: 0 0 15px;\n  }\n  .hero p {\n    font-size: 1.3em;\n    max-width: 600px;\n    margin: 0 auto;\n  }\n  h2 {\n    color: #e07a5f;\n    font-size: 2em;\n    margin: 50px 0 20px;\n    border-bottom: 2px solid #f8c4b0;\n    padding-bottom: 10px;\n  }\n  h3 {\n    color: #e07a5f;\n    font-size: 1.5em;\n    margin: 30px 0 15px;\n  }\n  .columns {\n    display: flex;\n    flex-wrap: wrap;\n    gap: 30px;\n  }\n  .column {\n    flex: 1;\n    min-width: 300px;\n    background: white;\n    padding: 25px;\n    border-radius: 10px;\n    box-shadow: 0 4px 15px rgba(224, 122, 95, 0.1);\n  }\n  .btn {\n    background-color: #e07a5f;\n    color: white;\n    padding: 12px 25px;\n    text-decoration: none;\n    border-radius: 6px;\n    display: inline-block;\n    margin: 10px 0;\n    cursor: pointer;\n    transition: background 0.3s;\n  }\n  .btn:hover {\n    background-color: #d66a4f;\n  }\n  .faq {\n    background: white;\n    border-radius: 10px;\n    overflow: hidden;\n    box-shadow: 0 2px 8px rgba(0,0,0,0.05);\n  }\n  details {\n    border-bottom: 1px solid #eee;\n    padding: 20px;\n    cursor: pointer;\n  }\n  details:last-of-type {\n    border-bottom: none;\n  }\n  summary {\n    font-size: 1.2em;\n    font-weight: bold;\n  }\n  summary::-webkit-details-marker {\n    display: none;\n  }\n  @media (max-width: 768px) {\n    .hero h1 {\n      font-size: 2.2em;\n    }\n    .columns {\n      flex-direction: column;\n    }\n  }\n</style>\n\n\n<main>\n  <section class=\"hero\">\n    <h1>青云梯</h1>\n    <p>稳定网络加速，畅享无界互联网</p>\n  </section>\n  <section>\n    <h2>品牌简介</h2>\n    <p>青云梯致力于为全球用户提供优质的网络加速解决方案。通过先进的代理技术，帮助用户实现高效稳定的网络连接。</p>\n  </section>\n  <section>\n    <h2>使用场景</h2>\n    <div class=\"columns\">\n      <div class=\"column\">\n        <h3>科学上网</h3>\n        <p>突破地域限制，访问被屏蔽的网络内容。</p>\n      </div>\n      <div class=\"column\">\n        <h3>国际访问</h3>\n        <p>加速海外网站访问，提升浏览效率。</p>\n      </div>\n      <div class=\"column\">\n        <h3>文件传输</h3>\n        <p>优化下载速度，享受流畅体验。</p>\n      </div>\n    </div>\n  </section>\n  <section>\n    <h2>操作指南</h2>\n    <p>使用青云梯非常简单：</p>\n    <ol>\n      <li>访问平台下载客户端</li>\n      <li>安装并打开程序</li>\n      <li>选择合适的加速节点连接</li>\n    </ol>\n    <a href=\"#\" class=\"btn\">立即体验</a>\n  </section>\n  <section id=\"plans\">\n    <h2>套餐对比</h2>\n    {{PLANS_HTML}}\n  </section>\n  <section id=\"clients\">\n    <h2>用户信赖</h2>\n    {{CLIENTS_HTML}}\n  </section>\n  <section>\n    <h2>常见问题</h2>\n    <div class=\"faq\">\n      <details>\n        <summary>什么是青云梯？</summary>\n        青云梯是一个专注于网络加速的代理服务品牌。\n      </details>\n      <details>\n        <summary>青云梯适合哪些使用场景？</summary>\n        适用于需要稳定网络连接的用户，如访问受限网站或加速国际流量。\n      </details>\n      <details>\n        <summary>如何使用青云梯？</summary>\n        按照官方指南进行安装和配置即可。\n      </details>\n      <details>\n        <summary>支持哪些设备？</summary>\n        青云梯支持Windows、Mac、Android和iOS等主流设备。\n      </details>\n      <details>\n        <summary>如何保障隐私安全？</summary>\n        青云梯采用加密技术，确保连接安全。\n      </details>\n    </div>\n  </section>\n</main>\n\n",
+          "hash": "f9e91421adad39260bbc69bc28d7e928fbab4ab8c51db0f32a0452f9a6aa8086",
+          "seo": {
+            "title": "青云梯 VPN 梯子 网络加速器 客户端下载 官网",
+            "keywords": "青云梯,vpn,梯子,网络加速,加速器,客户端下载,机场订阅",
+            "description": "青云梯提供稳定VPN梯子服务，助力用户实现网络加速与高效访问。下载客户端，享受畅快上网体验。"
+          },
+          "provider": "grok"
+        }
+      }
+    }
+  ],
+  "domain": {
+    "apex": "trnzsqp.cn",
+    "host": "zh.trnzsqp.cn",
+    "kind": "subdomain",
+    "candidate_roots_ref": "subdomain_roots:91e741dce7c147d9ce91af6f84daa678dae755807d903b04925261e0a3a8d804"
+  },
+  "friendlinks": [
+    {
+      "host": "trnzsqp.cn",
+      "url": "https://trnzsqp.cn/",
+      "label": "白月光",
+      "apex": "trnzsqp.cn",
+      "kind": null,
+      "identity": "quoqlctin/page-6b0d25156ae05d9d7a94bb7c"
+    },
+    {
+      "host": "00ah6.cn",
+      "url": "https://00ah6.cn/",
+      "label": "SSHUB",
+      "apex": "00ah6.cn",
+      "kind": null,
+      "identity": "erjwrgjj/page-6141714b7a0f264666643c94"
+    },
+    {
+      "host": "01kmph.cn",
+      "url": "https://01kmph.cn/",
+      "label": "WeGo",
+      "apex": "01kmph.cn",
+      "kind": null,
+      "identity": "wbwftxwku/page-680ee6fa2562d6d22ba5a121"
+    }
+  ],
+  "file_hashes": {
+    "index.html": "f2e57d43010a5dd2808a3064269592e3c60bf2e964c87ba526b4de432be57890",
+    "sitemap.xml": "6624dc4fa8468cfe9cba33e4086766b64b84caaebd406f27f24574ce0b9bf93c",
+    ".nojekyll": "12ae32cb1ec02d01eda3581b127c1fee3b0dc53572ed6baf239721a03d82e126",
+    "CNAME": "35ea88fd9bae709a432335f74453490cb862d96d291df171aa06f8eb3ebcc2a8",
+    "robots.txt": "a11380ce8a3f851c546b70db49eaed8dd42044e95aee4e20d8e5e99d2a0e396f",
+    "57d20ccdb0a50c8230c506a1e44cecfa.txt": "260d16a583c1b7e118b53b440a81cf50c248d27d9ecc8b272230856bd63e1ab6"
+  },
+  "revision": "c7c1d7347b05fd5df1c1d880d3839f7f88c1ea1d11ee3ca192c2789258c0f4df"
+}
